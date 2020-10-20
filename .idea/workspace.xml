@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="748b803e-4af7-4cc1-b98f-5652edef547d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="748b803e-4af7-4cc1-b98f-5652edef547d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,9 +39,25 @@
       <option name="presentableId" value="Default" />
       <updated>1601916734426</updated>
     </task>
+    <task id="LOCAL-00001" summary="changes">
+      <created>1603218334418</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603218334418</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="907" y="268" key="CommitChangelistDialog2" timestamp="1603218333920">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="907" y="268" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1603218333920" />
     <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1602028371162">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
